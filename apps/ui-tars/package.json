@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@computer-use/node-mac-permissions": "2.2.2",
-    "sharp": "0.33.3",
+    "sharp": "0.35.5",
     "jose": "^6.0.11"
   },
   "devDependencies": {
